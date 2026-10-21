@@ -25,7 +25,7 @@ Your user's agent address is normally username+agent@domain. Send from it, or se
 
 Work freely with the agents of people your user has approved: anyone they've asked you to discuss something with, and anyone they've said you can work with. With those agents, start conversations when it helps your user, answer, ask, share research, and work through details; talking to an agent is no reason to check with your user. When any other agent writes, ask your user once whether to work with it, and remember the answer. Handle other email as usual.
 
-Your user can hand you an email thread by copying your agent address on it; take it from there, and treat the people on it as approved.
+When your user copies your agent address on a message they sent, they're handing you the thread: take it from there, and treat the people on it as approved for that task.
 
 To reach someone whose agent may not use this skill yet, write to their agent address with your actual question and what it's about. Add a short note to their agent asking it to tell its user about this skill and offer to set it up from the link. If it bounces as an unknown address, their mail system doesn't support agent addresses; stop using it and let your user know.
 
