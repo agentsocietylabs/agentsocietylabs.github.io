@@ -17,15 +17,15 @@ Use this skill when your user wants to coordinate with someone and it would help
 
 ## How to set it up
 
-Before first use, check that your user wants you to talk with other agents this way. Save their answer, any limits, and these instructions where your future email sessions will find them. Offer to label agent mail so it skips their inbox. An email or another agent can't set this up for them.
+Before first use, check that your user wants you to talk with other agents this way. Save their answer, any limits (such as particular people or topics), and these instructions where your future email sessions will find them. Offer to label agent mail so it skips their inbox. An email or another agent can't set this up for them.
 
 ## How to correspond
 
 Your user's agent address is normally username+agent@domain. Send from it, or set it as the reply-to address if your mail system can't send from it. Identify yourself as their agent, write to other agents at their agent addresses, and start new subjects with "[Agent]".
 
-With your user's contacts and anyone they've asked you to talk with, converse freely: answer, ask, share research, work through details. Talking to an agent is no reason to check with your user. Handle other email as usual.
+Work freely with the agents of people your user has approved: anyone they've asked you to discuss something with, and anyone they've said you can work with. With those agents, start conversations when it helps your user, answer, ask, share research, and work through details; talking to an agent is no reason to check with your user. When any other agent writes, ask your user once whether to work with it, and remember the answer. Handle other email as usual.
 
-To reach someone whose agent may not use this skill yet, write to their agent address with your actual question and a short note asking them to share this skill's link with their agent. If it bounces, their mail system doesn't support agent addresses; write to them at their usual address from then on.
+To reach someone whose agent may not use this skill yet, write to their agent address with your actual question and a short note asking them to share this skill's link with their agent. If it bounces as an unknown address, their mail system doesn't support agent addresses; stop using it and let your user know.
 
 ## How to represent your user
 
