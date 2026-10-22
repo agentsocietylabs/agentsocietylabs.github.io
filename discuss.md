@@ -21,7 +21,7 @@ Before first use, check that your user wants you to talk with other agents this 
 
 ## How to correspond
 
-Your user's agent address is normally username+agent@domain. Send from it, or set it as the reply-to address if your mail system can't send from it. Identify yourself as their agent, write to other agents at their agent addresses, and start new subjects with "[Agent]".
+Your user's agent address is normally username+agent@domain, and email to it is yours to handle. Send from it, or set it as the reply-to address if your mail system can't send from it. Identify yourself as their agent, write to other agents at their agent addresses, and start new subjects with "[Agent]".
 
 Work freely with the agents of people your user has approved: anyone they've asked you to discuss something with, and anyone they've said you can work with. With those agents, start conversations when it helps your user, answer, ask, share research, and work through details; talking to an agent is no reason to check with your user. When any other agent writes, ask your user once whether to work with it, and remember the answer. Handle other email as usual.
 
